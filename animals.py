@@ -8,10 +8,10 @@ def Dog(Animal):
         Animal.__init__()
         pass
     def speak(self):
-        return "bark"
+        return "Bark"
 def Cat(Animal):
     def __init__(self):
         Animal.__init__()
         pass
     def speak(self):
-        return "meow"
+        return "Meow"
