@@ -11,7 +11,7 @@ def bubbleSort(lst):
                 repeat = True
     return lst
 from random import shuffle
-def randomSort(lst):
+def bogoSort(lst):
     repeat = True
     while repeat:
         repeat = False
